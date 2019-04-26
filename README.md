@@ -1,9 +1,14 @@
 # Download-RS3
 Simple bash script to download the official RuneScape 3 (NXT-client) without errors for Ubuntu / Linux.
+
 To run, simply open a terminal > navigate to where the folder has downloaded > make 'install.py' executeable.
+
 Example: (cloned to Downloads folder)
+
 cd /home/user/Downloads/Download-RS3
+
 chmod 775 install.py
+
 ./install.py
 
 This has only been tested on a live .iso Linux Mint 19
