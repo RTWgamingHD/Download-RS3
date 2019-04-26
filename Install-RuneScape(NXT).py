@@ -21,7 +21,7 @@ apt-get install -y runescape-launcher
 EOF
 
 clear
-echo "[*] Installation Complete! Launching RuneScape 3 ..."
+echo "[*] Installation Complete! Launching RuneScape ..."
 sleep 5s
 runescape-launcher
 rm install_runescape-nxt.py
