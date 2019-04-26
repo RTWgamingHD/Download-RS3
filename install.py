@@ -24,6 +24,6 @@ clear
 echo "[*] Installation Complete! Launching RuneScape ..."
 sleep 5s
 runescape-launcher
-rm install.py
-rm libglew1.10_1.10.0-3_amd64.deb
+cd ..
+sudo rm -r Download-RS3
 clear
